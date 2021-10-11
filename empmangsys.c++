@@ -302,7 +302,7 @@ void showMenu()
 
     cout << "-------------------------"
 
-         << "Traklabs Employee"
+         << "JohnFashion Employee"
 
          << " Management System"
 
